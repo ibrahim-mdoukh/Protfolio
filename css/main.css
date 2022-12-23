@@ -363,3 +363,18 @@ section {
 
     }
 }
+
+
+
+.icon i{
+    color: #000000;
+    width: 30px;
+}
+.icon svg{
+    width: 75px;
+}
+
+
+.card a {
+    color: #000;
+}
